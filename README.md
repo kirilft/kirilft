@@ -71,8 +71,8 @@ I’m Kiri, a trans girl studying it stuff :3.
   <a href="https://github.com/kirilft/Chromium">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Chromium&theme=dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Kasai&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Kasai&theme=default" alt="Pin Kasai" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Chromium&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Chromium&theme=default" alt="Pin Kasai" />
     </picture>
   </a>
   <a href="https://github.com/kirilft/Weinkeller">
