@@ -60,7 +60,7 @@ I’m Kiri, a trans girl studying it stuff :3.
 
 ## ⚡ Favorite Projects
 <p align="center">
-  <a href="https://github.com/kirilft/Kasai">
+  <a href="https://github.com/kirilft/Chromium">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Kasai&theme=radical" alt="Pin Kasai"/>
   </a>
   <a href="https://github.com/kirilft/Weinkeller">
