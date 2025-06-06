@@ -52,8 +52,16 @@ I’m Kiri, a trans girl studying it stuff :3.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirilft&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilft&layout=compact&theme=radical" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kirilft&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=kirilft&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kirilft&show_icons=true&theme=default" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilft&layout=compact&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilft&layout=compact&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilft&layout=compact&theme=default" alt="Top Languages" />
+  </picture>
 </p>
 
 ---
@@ -61,12 +69,21 @@ I’m Kiri, a trans girl studying it stuff :3.
 ## ⚡ Favorite Projects
 <p align="center">
   <a href="https://github.com/kirilft/Chromium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Kasai&theme=radical" alt="Pin Kasai"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Chromium&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Kasai&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Kasai&theme=default" alt="Pin Kasai" />
+    </picture>
   </a>
   <a href="https://github.com/kirilft/Weinkeller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Weinkeller&theme=radical" alt="Pin Weinkeller"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Weinkeller&theme=dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Weinkeller&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirilft&repo=Weinkeller&theme=default" alt="Pin Weinkeller" />
+    </picture>
   </a>
 </p>
+
 
 ---
 
