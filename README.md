@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ About Me
 I’m Kiri, a trans girl studying it stuff :3.  
-- 💻 Currently working on: **Kasai** and Audio studio
+- 💻 Currently working on **Kasai** and building an **Audio studio**
 - 🌱 Learning: **Rust**, **TensorFlow**, and **WebAssembly**  
 - 📫 How to reach me: [business@kiriwstd.com](mailto:business@kiriwstd.com)  
 - ⚡ Fun fact: I’m also an amateur photographer and enjoy capturing dawn landscapes  
